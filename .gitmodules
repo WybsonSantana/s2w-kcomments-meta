@@ -1,0 +1,6 @@
+[submodule "microservices/comment-service-kotlin"]
+	path = microservices/comment-service-kotlin
+	url = https://github.com/WybsonSantana/comment-service-kotlin
+[submodule "microservices/moderation-service-kotlin"]
+	path = microservices/moderation-service-kotlin
+	url = https://github.com/WybsonSantana/moderation-service-kotlin
